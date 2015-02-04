@@ -1,0 +1,21 @@
+body {
+	color: #606060;
+}
+
+@media (max-width: 1080px) {
+	body {
+		color:#399433;
+	}
+}
+
+@media (max-width: 550px) {
+	body {
+		color:#b45c27;
+	}
+}
+
+@media (max-width: 400px) {
+	body {
+		color:#612345;
+	}
+}
